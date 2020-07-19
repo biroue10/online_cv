@@ -27,3 +27,11 @@
     margin-left: 10px;
     box-shadow: 10px 10px 5px grey;
 }
+
+.pied {
+    background-color: #009688;
+    color: white;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
